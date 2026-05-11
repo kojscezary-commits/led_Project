@@ -4,5 +4,5 @@ Repository Content:
 - **Source Code:** Arduino firmware featuring PWM animations and gamma correction.
 - **Schematics:** * Full system circuit diagram.
   * IR sensor module.
-  * LED layout and power distribution.
+  * LED layout 
 - **Project Documentation:** Detailed description of the design and assembly process.
